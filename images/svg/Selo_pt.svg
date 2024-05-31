@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="60px" height="89px" viewBox="0 0 60 89" enable-background="new 0 0 60 89" xml:space="preserve">
+<filter  id="AI_GaussianBlur_4">
+	<feGaussianBlur  stdDeviation="4"></feGaussianBlur>
+</filter>
+<g>
+	<g opacity="0.5" filter="url(#AI_GaussianBlur_4)">
+		<path fill="#010101" d="M52.165,7.4H7.834C6.275,7.4,5,8.675,5,10.235v6.126v40.356l25,24.682l25-24.682V10.235
+			C55,8.675,53.725,7.4,52.165,7.4z"/>
+	</g>
+	<g>
+		<g>
+			<path fill="#F067A6" d="M55.165,4.4H13.271h-2.438h-5.67c-1.565,0-2.834,1.27-2.834,2.835v9.582H8v36.9l25,24.682l25-24.682
+				V7.235C58,5.675,56.725,4.4,55.165,4.4z"/>
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="5.165" y1="16.8169" x2="5.165" y2="4.3999">
+				<stop  offset="0.008" style="stop-color:#989798"/>
+				<stop  offset="1" style="stop-color:#010101"/>
+			</linearGradient>
+			<path opacity="0.4" fill="url(#SVGID_1_)" d="M5.164,4.4c-1.565,0-2.834,1.27-2.834,2.835v9.582H8V7.235
+				C8,5.669,6.73,4.4,5.164,4.4z"/>
+			<g>
+				<g>
+					
+						<text transform="matrix(1.0129 0 0 1 18.5444 39.813)" fill="#231F20" font-family="'Roboto Slab'" font-size="10">NOVO</text>
+				</g>
+				<g>
+					<ellipse fill="#231F20" cx="14.062" cy="35.024" rx="0.938" ry="0.928"/>
+					<ellipse fill="#231F20" cx="52.188" cy="35.024" rx="0.938" ry="0.928"/>
+				</g>
+				<g>
+					
+						<line fill="#010101" stroke="#231F20" stroke-width="0.9936" stroke-miterlimit="10" x1="12.999" y1="42.858" x2="53" y2="42.858"/>
+					
+						<line fill="#010101" stroke="#231F20" stroke-width="0.9936" stroke-miterlimit="10" x1="12.999" y1="27.061" x2="53" y2="27.061"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<defs>
+				<rect id="SVGID_2_" x="12.999" y="7.484" width="40.001" height="16.122"/>
+			</defs>
+			<clipPath id="SVGID_3_">
+				<use xlink:href="#SVGID_2_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_3_)">
+				
+					<line fill="none" stroke="#231F20" stroke-width="0.845" stroke-miterlimit="10" x1="-7.281" y1="24.789" x2="18.449" y2="-0.614"/>
+				
+					<line fill="none" stroke="#231F20" stroke-width="0.845" stroke-miterlimit="10" x1="-2.523" y1="24.789" x2="23.207" y2="-0.614"/>
+				
+					<line fill="none" stroke="#231F20" stroke-width="0.845" stroke-miterlimit="10" x1="2.234" y1="24.789" x2="27.963" y2="-0.614"/>
+				
+					<line fill="none" stroke="#231F20" stroke-width="0.845" stroke-miterlimit="10" x1="6.992" y1="24.789" x2="32.721" y2="-0.614"/>
+				
+					<line fill="none" stroke="#231F20" stroke-width="0.845" stroke-miterlimit="10" x1="11.75" y1="24.789" x2="37.481" y2="-0.614"/>
+				
+					<line fill="none" stroke="#231F20" stroke-width="0.845" stroke-miterlimit="10" x1="16.508" y1="24.789" x2="42.239" y2="-0.614"/>
+				
+					<line fill="none" stroke="#231F20" stroke-width="0.845" stroke-miterlimit="10" x1="21.266" y1="24.789" x2="46.997" y2="-0.614"/>
+				
+					<line fill="none" stroke="#231F20" stroke-width="0.845" stroke-miterlimit="10" x1="26.023" y1="24.789" x2="51.752" y2="-0.614"/>
+				
+					<line fill="none" stroke="#231F20" stroke-width="0.845" stroke-miterlimit="10" x1="30.782" y1="24.789" x2="56.51" y2="-0.614"/>
+				
+					<line fill="none" stroke="#231F20" stroke-width="0.845" stroke-miterlimit="10" x1="35.54" y1="24.789" x2="61.268" y2="-0.614"/>
+				
+					<line fill="none" stroke="#231F20" stroke-width="0.845" stroke-miterlimit="10" x1="40.297" y1="24.789" x2="66.026" y2="-0.614"/>
+				
+					<line fill="none" stroke="#231F20" stroke-width="0.845" stroke-miterlimit="10" x1="45.055" y1="24.789" x2="70.786" y2="-0.614"/>
+				
+					<line fill="none" stroke="#231F20" stroke-width="0.845" stroke-miterlimit="10" x1="49.813" y1="24.789" x2="75.543" y2="-0.614"/>
+				
+					<line fill="none" stroke="#231F20" stroke-width="0.845" stroke-miterlimit="10" x1="54.571" y1="24.789" x2="80.301" y2="-0.614"/>
+			</g>
+		</g>
+		<g>
+			<defs>
+				<polygon id="SVGID_4_" points="12.999,52.167 33,71.913 53,52.167 53,46.313 12.999,46.313 				"/>
+			</defs>
+			<clipPath id="SVGID_5_">
+				<use xlink:href="#SVGID_4_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_5_)">
+				
+					<line fill="none" stroke="#231F20" stroke-width="0.845" stroke-miterlimit="10" x1="53.448" y1="65.221" x2="79.178" y2="39.819"/>
+				
+					<line fill="none" stroke="#231F20" stroke-width="0.845" stroke-miterlimit="10" x1="-27.434" y1="84.008" x2="17.326" y2="39.819"/>
+				
+					<line fill="none" stroke="#231F20" stroke-width="0.845" stroke-miterlimit="10" x1="-22.677" y1="84.008" x2="22.084" y2="39.819"/>
+				
+					<line fill="none" stroke="#231F20" stroke-width="0.845" stroke-miterlimit="10" x1="-17.919" y1="84.008" x2="26.842" y2="39.819"/>
+				
+					<line fill="none" stroke="#231F20" stroke-width="0.845" stroke-miterlimit="10" x1="-13.16" y1="84.008" x2="31.6" y2="39.819"/>
+				
+					<line fill="none" stroke="#231F20" stroke-width="0.845" stroke-miterlimit="10" x1="-8.402" y1="84.008" x2="36.358" y2="39.819"/>
+				
+					<line fill="none" stroke="#231F20" stroke-width="0.845" stroke-miterlimit="10" x1="-3.645" y1="84.008" x2="41.116" y2="39.819"/>
+				
+					<line fill="none" stroke="#231F20" stroke-width="0.845" stroke-miterlimit="10" x1="1.113" y1="84.008" x2="45.874" y2="39.819"/>
+				
+					<line fill="none" stroke="#231F20" stroke-width="0.845" stroke-miterlimit="10" x1="5.87" y1="84.008" x2="50.629" y2="39.819"/>
+				
+					<line fill="none" stroke="#231F20" stroke-width="0.845" stroke-miterlimit="10" x1="10.628" y1="84.008" x2="55.387" y2="39.819"/>
+				
+					<line fill="none" stroke="#231F20" stroke-width="0.845" stroke-miterlimit="10" x1="15.388" y1="84.008" x2="60.145" y2="39.819"/>
+				
+					<line fill="none" stroke="#231F20" stroke-width="0.845" stroke-miterlimit="10" x1="20.146" y1="84.008" x2="64.903" y2="39.819"/>
+				
+					<line fill="none" stroke="#231F20" stroke-width="0.845" stroke-miterlimit="10" x1="24.902" y1="84.008" x2="69.663" y2="39.819"/>
+				
+					<line fill="none" stroke="#231F20" stroke-width="0.845" stroke-miterlimit="10" x1="29.661" y1="84.008" x2="74.42" y2="39.819"/>
+				
+					<line fill="none" stroke="#231F20" stroke-width="0.845" stroke-miterlimit="10" x1="34.418" y1="84.008" x2="79.178" y2="39.819"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
